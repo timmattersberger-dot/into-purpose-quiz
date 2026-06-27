@@ -1,4 +1,4 @@
-# Into Purpose — Energy Leak Audit (Quiz)
+d# Into Purpose — Energy Leak Audit (Quiz)
 
 A self-contained quiz that scores five "energy leaks", gates the result behind an
 email, and pushes that email into Flodesk (segment **Into Purpose Quiz**).
